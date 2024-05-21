@@ -1,4 +1,8 @@
-Hola,soy Gabriel Lazo
+ <p align="center">
+  <h1 align="center">Hola, soy Gabriel Lazo</h1>
+
+</p>
+
 
 # 💫 About Me:
 <strong> Desarrollador Front End <strong> <br><br>🤖 Estudiante de ING Sistemas en Informacion<br>😎Estudio Desarrollador Full Stack en Henry<br>👾 Curso QA.Tester<br>🚀Vivo en Argentina,Tucuman 
