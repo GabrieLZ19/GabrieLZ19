@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<strong> Desarrollador Front End <strong> <br><br>🤖 Estudiante de ING Sistemas en Informacion<br>😎Estudio Desarrollador Full Stack en Henry<br>👾 Curso QA.Tester<br>🚀Vivo en Argentina,Tucuman 
+<strong> Desarrollador Front End <strong> <br><br>🤖 Estudiante de ING Sistemas en Informacion<br>😎 Desarrollador Full Stack en Henry<br>👾 Curso QA.Tester<br>🚀Vivo en Argentina,Tucuman 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gabriel.lazo.7374) 
