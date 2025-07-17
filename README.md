@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<strong> Desarrollador FullStack <strong> <br><br>🤖 Estudiante de ING Sistemas en Informacion<br>😎 Desarrollador Full Stack <br>👾 Curso QA.Tester<br>🚀Vivo en Argentina,Tucuman 
+<strong>😎 Desarrollador FullStack <strong> <br>🤖 Estudiante de ING Sistemas en Informacion<br>👾 Curso QA.Tester<br>🚀Vivo en Argentina,Tucuman 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gabriel.lazo.7374) 
